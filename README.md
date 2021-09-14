@@ -1,4 +1,4 @@
-# Astra 1.2
+# GeckoDriver Downloader v0.1
 <p align='center'><b>Cross Platform GeckoDriver Downloader</b></p>
 
 # Usage 🧰
